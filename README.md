@@ -8,3 +8,4 @@ How to start?
 2. Extract the files
 3. Install xampp (if you dont have it)
 4. In the phpmyadmin dashboard import the sql to a database called testingdb
+5. Put the other files in the htdocs folder
