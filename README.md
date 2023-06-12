@@ -9,3 +9,4 @@ How to start?
 3. Install xampp (if you dont have it)
 4. In the phpmyadmin dashboard import the sql to a database called testingdb
 5. Put the extracted folder in the htdocs folder
+6. Install NodeJs (if you dont have it)
