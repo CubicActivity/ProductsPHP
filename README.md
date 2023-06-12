@@ -10,3 +10,4 @@ How to start?
 4. In the phpmyadmin dashboard import the sql to a database called testingdb
 5. Put the extracted folder in the htdocs folder
 6. Install NodeJs (if you dont have it)
+7. npm install and npm run in htdocs/devtest/reactjs/
